@@ -1,0 +1,10 @@
+good,clear,low,1000,Yes
+good,unclear,low,100,No
+good,clear,moderate,500,Yes
+bad,unclear,low,500,No
+bad,clear,low,1500,Yes
+good,unclear,high,1000,No
+good,unclear,low,1000,Yes
+bad,unclear,moderate,100,No
+bad,unclear,high,1500,No
+bad,clear,moderate,1500,Yes
